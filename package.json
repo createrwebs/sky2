@@ -6,7 +6,7 @@
     "react-bootstrap": "0.25.2",
     "react-redux": "3.0.1",
     "react-widgets": "2.8.1",
-    "redux": "3.0.2",
+    "redux": "3.7.2",
     "redux-form": "2.0.0"
   },
   "devDependencies": {
