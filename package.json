@@ -2,7 +2,7 @@
   "dependencies": {
     "bootstrap": "3.3.5",
     "classnames": "2.1.4",
-    "react": "0.13.3",
+    "react": "0.14.10",
     "react-bootstrap": "0.25.2",
     "react-redux": "3.0.1",
     "react-widgets": "2.8.1",
